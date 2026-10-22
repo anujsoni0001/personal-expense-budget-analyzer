@@ -1,6 +1,5 @@
 # personal-expense-budget-analyzer
 Excel-based expense tracking, budgeting, variance analysis, and financial dashboard.
-# Personal Expense & Budget Analyzer
 
 ## Project Overview
 The Personal Expense & Budget Analyzer is an Excel-based financial analysis project designed to track income and expenses, compare actual spending against category budgets, calculate savings, and visualize financial performance through a dashboard.
